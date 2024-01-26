@@ -11,37 +11,31 @@ In this repository, you'll find HTML and CSS code for developing five different 
 ### 1. Classic Blog 📝
 
 A simple and elegant blog template with a classic design. Explore basic HTML structure, navigation, and styling.
-
-**Preview:**
-![Classic Blog Template](preview_images/classic_blog.png)
+<img src="simple preview.jpg" alt="Dashboard Screenshot" width="600"/>
 
 ### 2. Portfolio Showcase 🚀
 
 Showcase your skills and projects with this portfolio template. Learn about sectioning elements and flexbox layout.
+<img src="preview.jpg" alt="Dashboard Screenshot" width="600"/>
 
-**Preview:**
-![Portfolio Showcase Template](preview_images/portfolio_showcase.png)
 
 ### 3. Product Landing Page 🛍️
 
 Create a product landing page with modern design elements. Practice using forms, images, and CSS grid.
-
-**Preview:**
-![Product Landing Page Template](preview_images/product_landing_page.png)
+<img src="fiverr preview.jpg" alt="Dashboard Screenshot" width="600"/>
 
 ### 4. Creative Agency 🎨
 
 Design a website for a creative agency. Learn about positioning, styling lists, and creating a responsive layout.
+<img src="glassmorphism preview.jpg" alt="Dashboard Screenshot" width="600"/>
 
-**Preview:**
-![Creative Agency Template](preview_images/creative_agency.png)
 
 ### 5. Event Invitation 🎉
 
 Craft a stylish event invitation page. Understand the use of background images, gradients, and CSS transitions.
+<img src="netflix homepage preview.jpg" alt="Dashboard Screenshot" width="600"/>
 
-**Preview:**
-![Event Invitation Template](preview_images/event_invitation.png)
+
 
 ## How to Use
 
